@@ -1,1 +1,0 @@
-Put Mantis_Spain_SIGPAC_v01.ipynb here (File > Download > .ipynb from Colab), with the new Cell 10 v2.
