@@ -1,0 +1,12 @@
+# Python packages for notebooks/Mantis_Spain_SIGPAC_v01.ipynb (Google Colab, Python 3)
+geopandas
+pyogrio
+shapely
+duckdb
+pystac-client
+planetary-computer
+stackstac
+rasterio
+numpy
+pandas
+matplotlib
