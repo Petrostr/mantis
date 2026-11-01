@@ -1,4 +1,4 @@
-# Python packages for notebooks/Mantis_Spain_SIGPAC_v01.ipynb (Google Colab, Python 3)
+# Python packages for notebooks/Mantis_Spain_SIGPAC_v02.ipynb (Google Colab, Python 3)
 geopandas
 pyogrio
 shapely
