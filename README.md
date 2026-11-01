@@ -90,9 +90,11 @@ Code written by Petros L. Stratis with AI assistance (Claude).
 
 Code: Petros L. Stratis. FOSSCOMM 2026 talk:
 
-- Petros L. Stratis, PhD candidate, NTUA Remote Sensing Laboratory, ORCID [0009-0002-5954-1162](https://orcid.org/0009-0002-5954-1162)
+- Petros L. Stratis, PhD candidate, ORCID [0009-0002-5954-1162](https://orcid.org/0009-0002-5954-1162)
 - Dr. Vassilios Andronis, NTUA, ORCID [0000-0003-1699-6714](https://orcid.org/0000-0003-1699-6714)
 - Emeritus Prof. Demetre Argialas, NTUA, ORCID [0000-0002-9757-3600](https://orcid.org/0000-0002-9757-3600)
+ 
+Remote Sensing Laboratory, School of Rural, Surveying and Geoinformatics Engineering, National Technical University of Athens (NTUA)
 
 ## Acknowledgement
 
