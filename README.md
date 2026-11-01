@@ -96,7 +96,7 @@ Code: Petros L. Stratis. FOSSCOMM 2026 talk:
 
 ## Acknowledgement
 
-The PhD research behind this work was supported by the Hellenic Foundation for Research and Innovation (HFRI / ΕΛΙΔΕΚ) under the HFRI PhD Fellowship grant (Fellowship Number: 011270).
+The PhD research behind this work was Supported by the Hellenic Foundation for Research and Innovation (HFRI) — 4th Call for HFRI PhD Fellowships, No. 011270
 
 ## Contributing
 
