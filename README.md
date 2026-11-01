@@ -40,14 +40,14 @@ mantis/
 ├── data/
 │   └── mantis_data_borja.json   9 parcels: geometry + 36 NDVI values
 └── notebooks/
-    └── Mantis_Spain_SIGPAC_v01.ipynb
+    └── Mantis_Spain_SIGPAC_v02.ipynb
 ```
 
 ## Run it
 
 **Just look at it:** open `index.html` in a browser (Chrome, Firefox). Nothing to install. Without internet, everything works except the satellite basemap under the map.
 
-**Rebuild it from open data:** open `notebooks/Mantis_Spain_SIGPAC_v01.ipynb` in Google Colab and run the cells in order.
+**Rebuild it from open data:** open `notebooks/Mantis_Spain_SIGPAC_v02.ipynb` in Google Colab and run the cells in order.
 
 | Cell | Step |
 |---|---|
